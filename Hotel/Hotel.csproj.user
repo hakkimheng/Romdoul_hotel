@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="alert\checkout_success.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="alert\completed_alert.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="alert\error_alert.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="alert\room_Occupied.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="checkin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="checkout\check_out.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="checkout\payment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="checkout\verify.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CH_in\checkin_form.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CH_in\room_choose.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="data_view\data_board.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="paymethod.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="room_status\F_room.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="room_status\status_room.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
